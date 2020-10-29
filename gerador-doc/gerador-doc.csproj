@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>gerador_doc</RootNamespace>
+    <UserSecretsId>9196f82c-f290-45e6-9141-dcbecae0df81</UserSecretsId>
   </PropertyGroup>
 
 
